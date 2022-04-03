@@ -1,2 +1,2 @@
-# class_diagram_and_encapsulation_activity
+# Class Diagram & Encapsulation Activity
 An exercise from the Tech Returners course
